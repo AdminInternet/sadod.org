@@ -1,0 +1,18 @@
+name: SADOD
+type: theme
+description: A custom theme by AdminInternet for SADOD
+core: 8.x
+libraries:
+ - sadod/global-styling
+regions:
+  header: 'Header'
+  navbar: 'Navbar'
+  pre1: 'Pre-content 1'
+  pre2: 'Pre-content 2'
+  content: 'Main content'
+  content_secondary: 'Secondary content'
+  content_tertiary: 'Tertiary content'
+  footer: 'Footer'
+  page_top: 'Page top'
+  page_bottom: 'Page bottom'
+base theme: classy

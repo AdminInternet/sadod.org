@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" onmouseup="{ if(window.parent.document.onmouseup) window.parent.document.onmouseup(arguments[0]);}" viewBox="0 0 55 55" data-name="Layer 1" id="Layer_1"><defs><style>.cls-1{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:2px;}</style></defs><rect data-cppathid="10000" height="30" width="7" y="12.5" x="11" class="cls-1"/><rect data-cppathid="10001" height="20" width="7" y="22.5" x="24" class="cls-1"/><rect data-cppathid="10002" height="11" width="7" y="31.5" x="37" class="cls-1"/></svg>

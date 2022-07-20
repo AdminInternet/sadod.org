@@ -1,0 +1,9 @@
+global-styling:
+  version: 1.x
+  css:
+    theme:
+      css/sadod.css: {}
+  js:
+    js/sadod.js: {}
+  dependencies:
+    - core/jquery
